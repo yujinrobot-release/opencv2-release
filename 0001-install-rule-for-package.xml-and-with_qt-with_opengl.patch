@@ -1,4 +1,4 @@
-From e622d7b7f064796aca736408913b08a165d92fe4 Mon Sep 17 00:00:00 2001
+From bf1a0d107a2b9aa7188f60cb5ce5a58cf1bc7d7f Mon Sep 17 00:00:00 2001
 From: Daniel Stonier <d.stonier@gmail.com>
 Date: Sun, 14 Sep 2014 00:53:45 +0900
 Subject: [PATCH] install rule for package.xml and with_qt, with_opengl build
