@@ -11,13 +11,13 @@ tracks:
     - git-bloom-generate -y rosrpm --prefix release/:{ros_distro} :{ros_distro} -i
       :{release_inc}
     devel_branch: null
+    last_version: 2.4.9
     name: opencv2
     patches: indigo
-    release_inc: -1
+    release_inc: '0'
     release_repo_url: https://github.com/yujinrobot-release/opencv2_4_9-release.git
     release_tag: :{ask}
     ros_distro: indigo
     vcs_type: git
     vcs_uri: /home/snorri/tmp/opencv
-#    vcs_uri: https://github.com/Itseez/opencv.git
     version: :{ask}
