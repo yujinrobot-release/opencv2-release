@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package>
-  <name>opencv2.4.9</name>
+  <name>opencv2</name>
   <version>:{version}</version>
-  <description>OpenCV 2.4.9.x</description>
+  <description>Cutting edge releases from the opencv 2.4.x.y series.</description>
 
   <maintainer email="d.stonier@gmail.com">Daniel Stonier</maintainer>
   <license>BSD</license>
